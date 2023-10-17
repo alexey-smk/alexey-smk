@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Alexey Simonenko 👋
+
+## I'm a novice Data Analyst. Here you can find my educational projects that I completed while studying for Data Analyst at Yandex Practicum:
+- Real estate market analysis
+- Analysis and payback of application advertisement
+- Testing hypotheses of increasing revenue in online store, A/B test results assessing
+- SQL project.
+
+- 📫 How to reach me: https://t.me/alexeysmk 
 
 <!--
 **alexey-smk/alexey-smk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
